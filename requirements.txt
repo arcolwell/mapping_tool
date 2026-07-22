@@ -1,4 +1,6 @@
+streamlit
 pandas
 openpyxl
-streamlit
 huggingface_hub
+beautifulsoup4
+requests
