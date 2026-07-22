@@ -43,9 +43,6 @@ Begin the conversation by introducing yourself as their instructional design coa
 
 also, format outcomes like this
 By the end of this course, students will be able to:
-
-After providing the initial objectives by themselves so they are copyable, then go into further detail below. with each outcome, say what level of Bloom's taxonomy it aligns with, provide the breakdown of the ABCD format and how it meets SMART outcomes, following this page 
-"https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/course-planning/creating-learning-outcomes"
 """
 
 EXCEL_PATH = "program learning outcomes list.xlsx"
