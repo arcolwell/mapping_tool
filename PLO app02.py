@@ -234,7 +234,7 @@ def main():
         with col2:
             st.link_button(
                 "📋 Request Consultation",
-                "https://forms.office.com/pages/responsepage.aspx?id=LtmHvtjshkW0fKUEZtBPTfCEU0z1beFPlLKfCnn6FbNUREdWTDRaQjFFREwzRVFKWTBHSVVVWUkySyQlQCN0PWcu&route=shorturl",
+                "https://forms.your-institution.edu/consultation-form",
                 help="Click to request direct consultation with our curriculum team.",
             )
 
