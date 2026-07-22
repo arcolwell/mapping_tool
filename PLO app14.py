@@ -11,7 +11,6 @@ import sqlite3
 import pandas as pd
 
 # OpenAI SDK import
-from openai import OpenAI
 import streamlit as st
 
 # ----------------------------------------------------
