@@ -256,7 +256,7 @@ def main():
             st.header("🤖 AI Help")
         with col2:
             st.link_button(
-                "📋 Consult",
+                "📋 Request Consultation",
                 "https://forms.your-institution.edu/consultation-form",
                 help="Click to request direct consultation with our curriculum team.",
             )
