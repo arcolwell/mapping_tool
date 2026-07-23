@@ -18,7 +18,7 @@ from huggingface_hub import InferenceClient
 # FILE & DATABASE CONFIGURATION
 # ----------------------------------------------------
 EXCEL_PATH = "program learning outcomes list.xlsx"
-DB_PATH = "plo_mapping_test3_db.db"
+DB_PATH = "plo_mapping_test4_db.db"
 
 # System instruction prompt for the AI assistant
 GEM_SYSTEM_INSTRUCTION = """
