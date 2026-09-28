@@ -264,16 +264,16 @@ def main():
     # SIDEBAR: GOOGLE GEM LINK & CONSULTATION
     # ----------------------------------------------------
     with st.sidebar:
-        st.header("🤖 AI Instructional Design Coach")
+        st.header("🤖 AI Outcomes Helper")
         
         st.info(
             "**Enterprise AI Integration Goal:**\n\n"
-            "Faculty click below to open our enterprise **Google Gem**, pre-configured with our instructional design system prompt."
+            "Faculty click below to open our enterprise **Google Gem**, pre-configured with our outcomes writing system prompt."
         )
         
         # Replace URL with your actual Google Gem link when available
         st.link_button(
-            "✨ Launch ID Coach (Google Gem)",
+            "✨ Launch Outcomes Helper (Google Gem)",
             "https://gemini.google.com/",
             type="primary",
             help="Opens our enterprise Google Gem in a new browser tab."
